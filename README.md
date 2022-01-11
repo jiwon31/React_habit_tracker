@@ -1,4 +1,4 @@
-Website Draft URL:https://6053594b839515e76ec55f63--jiwon-habit-tracker.netlify.app
+Website URL:https://jiwon-habit-tracker.netlify.app
 
 # Getting Started with Create React App
 
